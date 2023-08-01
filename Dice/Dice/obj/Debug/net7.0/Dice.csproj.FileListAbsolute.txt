@@ -1,0 +1,15 @@
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\bin\Debug\net7.0\Dice.exe
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\bin\Debug\net7.0\Dice.deps.json
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\bin\Debug\net7.0\Dice.runtimeconfig.json
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\bin\Debug\net7.0\Dice.dll
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\bin\Debug\net7.0\Dice.pdb
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.csproj.AssemblyReference.cache
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.AssemblyInfoInputs.cache
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.AssemblyInfo.cs
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.csproj.CoreCompileInputs.cache
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.dll
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\refint\Dice.dll
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.pdb
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\Dice.genruntimeconfig.cache
+C:\Users\cheru\source\repos\simple-projects\Dice\Dice\obj\Debug\net7.0\ref\Dice.dll
