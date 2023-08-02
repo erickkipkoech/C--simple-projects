@@ -1,0 +1,15 @@
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\bin\Debug\net7.0\Number-guessing.exe
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\bin\Debug\net7.0\Number-guessing.deps.json
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\bin\Debug\net7.0\Number-guessing.runtimeconfig.json
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\bin\Debug\net7.0\Number-guessing.dll
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\bin\Debug\net7.0\Number-guessing.pdb
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.csproj.AssemblyReference.cache
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.AssemblyInfoInputs.cache
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.AssemblyInfo.cs
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.csproj.CoreCompileInputs.cache
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.dll
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\refint\Number-guessing.dll
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.pdb
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\Number-guessing.genruntimeconfig.cache
+C:\Users\cheru\source\repos\simple-projects\Number-guessing\Number-guessing\obj\Debug\net7.0\ref\Number-guessing.dll
